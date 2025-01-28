@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Repos for the Cloud Direct Demo environment.
+This is the Cloud-Direct-Demo org, where we keep repos for the Cloud Direct Demo environment.
